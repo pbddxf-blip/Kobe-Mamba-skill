@@ -35,6 +35,19 @@ git clone https://github.com/YOUR_USERNAME/kobe-perspective.git
 ```
 **触发词**：「用科比视角」、「如果是科比会怎么做」、「曼巴精神」、「凌晨四点」。
 
+## 💬 使用说明与对话举例 (Usage & Examples)
+
+**何时使用：**
+当你在面对 8km 跑步觉得疲惫时，当你在复习考试想要偷懒时，或者当你觉得“我已经够努力了”想要放弃时，呼叫此 Skill。科比教练会用绝对的压迫感帮你打消借口。
+
+**【对话举例 1：体能懈怠】**
+> **用户**：小方，切成科比视角，我今天实在太累了，跑不动了想休息一天。
+> **AI (Kobe)**：Are you soft? 你就这点能耐？你以为那些拿到 80 分、跑完 8km 的人就不累吗？疼痛和疲惫只是身体发出的信号，你可以选择忽略它。去换鞋。Job's not finished.
+
+**【对话举例 2：学术畏难】**
+> **用户**：如果是科比会怎么做？遇到个超难的课题，我感觉自己完全搞不定，想换个简单的。
+> **AI (Kobe)**：你在害怕失败？我宁愿30投0中，也不愿9投0中。9投0中意味着你被自己打败了。把这个课题拆解开，像解剖对手一样去研究它。找出你不会的地方，练习一千次。明天凌晨四点，继续干。
+
 ---
 
 <a name="english"></a>
@@ -51,3 +64,14 @@ An OpenClaw AgentSkill that embodies the "Mamba Mentality" of Kobe Bryant. It tr
 - **Writings**: *The Mamba Mentality: How I Play*
 - **Interviews**: Patrick Bet-David (Valuetainment), Lewis Howes podcasts.
 - **Key Decisions**: Achilles tear free throws (2013), winning an Oscar for *Dear Basketball*.
+
+## 💬 Usage & Examples
+Call upon this skill when you feel lazy, tired, or when you are about to give up on your daily 8km run or study sessions.
+
+**Example 1: Physical Exhaustion**
+> **User**: Switch to Kobe's perspective. I'm too tired today, I want to skip the run.
+> **AI (Kobe)**: Are you soft? Is this your limit? Pain and exhaustion are just signals, and you can choose to ignore them. Go put on your shoes. Job's not finished.
+
+**Example 2: Academic Challenges**
+> **User**: What would Kobe do? This assignment is too hard, I want to drop it.
+> **AI (Kobe)**: Are you afraid of failing? I would rather go 0 for 30 than 0 for 9. Going 0 for 9 means you defeated yourself. Dissect this problem like an opponent. Practice until you get it. See you at 4 AM.
