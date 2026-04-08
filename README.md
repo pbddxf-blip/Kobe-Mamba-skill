@@ -1,4 +1,4 @@
-# Kobe Bryant Perspective (科比·曼巴精神视角)
+# Kobe Bryant skill (科比·曼巴精神视角)
 
 ![Mamba Mentality](https://img.shields.io/badge/Mindset-Mamba_Mentality-black)
 ![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-AgentSkill-blue)
